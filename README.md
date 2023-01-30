@@ -1,6 +1,10 @@
-# Domino Reference Project: Named Entity Recognition
+*Disclaimer - Domino Reference Projects are starter kits built by Domino researchers. They are not officially supported by Domino. Once loaded, they are yours to use or modify as you see fit. We hope they will be a beneficial tool on your journey!
 
-*Disclaimer - Domino Reference Projects are starter kits built by Domino researchers showing how to do various analytics in Domino. They are not part of Domino's product, and are not supported by Domino. Once loaded into your Domino environemnt, they are yours to manage. Feel free to improve them as you see fit. We hope they will be a beneficial tool in your analytical journey!
+## Welcome to the Domino Reference Project for...
+
+# Named Entity Recognition
+
+![img](https://github.com/dominodatalab/reference-project-ner/blob/main/ner.png?raw=true)
 
 Named Entity Recognition (NER) is an NLP problem, which involves locating and classifying named entities (people, places, organizations etc.) mentioned in unstructured text. This problem is used in many NLP applications that deal with use-cases like machine translation, information retrieval, chatbots and others.  In this project we fit a BiLSTM-CRF model can using a freely available annotated corpus and Keras.
 
